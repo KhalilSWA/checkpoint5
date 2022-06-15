@@ -1,0 +1,238 @@
+ul {
+  margin: 0;
+  padding: 0;
+  margin-top: -50px;
+  margin-right: 150px;
+}
+
+li {
+  display: inline;
+  float: right;
+  padding: 14px 16px;
+}
+
+#navbar img
+{
+  display: block;
+  margin-left: 150px;
+  margin-right: auto;
+}
+
+#img
+{
+  margin-top: 50px;
+  text-align:center;
+}
+
+h1
+{
+  text-align:center;
+  color: #00bfa5;
+  font-family:Verdana;
+}
+
+#parag1
+{
+  color: #747474;
+  display: block;
+  margin-left: 240px;
+  margin-top: 80px;
+}
+
+#parag2
+{
+  color: #747474;
+  margin-top: -90px;
+  display: block;
+  margin-left: 680px;
+}
+
+#patients
+{
+  background-color: #00bfa5;
+  color: white;
+  border: 1px ridge;
+  border-radius: 10px 10px 10px 10px;
+  width: 300px;
+  height: 300px;
+  font-family: Verdana;
+  font-family: small;
+  margin-left: 240px;
+  margin-top: 80px;
+  font-size: 1.2em;
+}
+
+#doctors
+{
+  background-color: #3d83df;
+  color: white;
+  border: 1px ridge;
+  border-radius: 10px 10px 10px 10px;
+  width: 300px;
+  height: 300px;
+  font-family: Verdana;
+  font-family: small;
+  margin-left: 551px;
+  margin-top: -303px;
+  font-size: 1.2em;
+}
+
+#clinics
+{
+  background-color: #1b2734;
+  color: white;
+  border: 1px ridge;
+  border-radius: 10px 10px 10px 10px;
+  width: 300px;
+  height: 300px;
+  font-family: Verdana;
+  font-family: small;
+  margin-left: 860px;
+  margin-top: -302px;
+  font-size: 1.2em;
+}
+
+h2
+{
+    text-align:center;
+}
+
+#soustitre
+{
+    color: #00bfa5;
+    margin-left: 240px;
+    margin-top: 70px;
+    font-size: 1.9em;
+}
+
+#bg h2
+{
+    color: #00bfa5;
+    margin-left: -800px;
+    margin-top: -500px;
+}
+
+#bg p 
+{
+    color: #747474;
+    margin-left: 165px;
+}
+
+#flag
+{
+    color: #747474;
+    font-size: 0.7em;
+    margin-left: 270px;
+    text-align:center;
+}
+
+#appointments
+{
+    color: #747474;
+    font-size: 0.7em;
+    margin-left: 760px;
+    text-align:center;
+    margin-top: -80px;
+}
+
+#patient
+{
+    color: #747474;
+    font-size: 0.7em;
+    margin-left: 270px;
+    text-align:center;
+    margin-top: 280px;
+}
+
+#actdoc
+{
+    color: #747474;
+    font-size: 0.7em;
+    margin-left: 760px;
+    text-align:center;
+    margin-top: -50px;
+}
+
+#bg2
+{
+    margin-top: 1500px;
+}
+
+h3
+{
+    color: #00bfa5;
+    font-size: 1.9em;
+    text-align:center;
+    margin-top: -2500px;
+}
+
+#p22 p
+{
+  text-align: center;
+}
+
+#warsaw
+{
+  margin-left: 200px;
+}
+
+#barcelona
+{
+  margin-left: 340px;
+  margin-top: -376px;
+}
+
+#munich
+{
+  margin-left: 340px;
+  margin-top: -376px;
+}
+
+#istanbul
+{
+  margin-left: -680px;
+}
+
+#rome
+{
+  margin-left: 340px;
+  margin-top: -376px;
+}
+
+#bologna
+{
+  margin-left: 340px;
+  margin-top: -376px;
+}
+
+#curitiba
+{
+  margin-left: -680px;
+}
+
+#mexico
+{
+  margin-left: 340px;
+  margin-top: -376px;
+}
+
+#f 
+{
+  font-size: 1.9em;
+  text-align:center;
+  margin-left: -470px;
+  margin-top: 70px;
+
+}
+
+#footer
+{
+  font-size: 0.5em;
+  margin-top: 200px;
+
+}
+
+#mod
+{
+  margin-top: 700px;
+}
